@@ -1,0 +1,444 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Practicaenempresa.com" resolutions="1x" timestamp="1678541912054">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="3963451444" ref="sección-1:productos:index:nosotros:sección-2:contactos"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3862842148" ref="sección-1:productos:index:nosotros:sección-2:contactos"/>
+    <file name="secci_n-1.css" crc="3873737936" ref="sección-1"/>
+    <file name="nomq_secci_n-1.css" crc="45198081" ref="sección-1"/>
+    <file name="productos.css" crc="3830195024" ref="productos"/>
+    <file name="nomq_productos.css" crc="4205304058" ref="productos"/>
+    <file name="index.css" crc="4175381280" ref="index"/>
+    <file name="nomq_index.css" crc="392243589" ref="index"/>
+    <file name="nosotros.css" crc="4229640179" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="416128766" ref="nosotros"/>
+    <file name="secci_n-2.css" crc="401319830" ref="sección-2"/>
+    <file name="nomq_secci_n-2.css" crc="4058963785" ref="sección-2"/>
+    <file name="contactos.css" crc="342751981" ref="contactos"/>
+    <file name="nomq_contactos.css" crc="175710773" ref="contactos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="webpro.js" crc="242022427" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="form_check.php" crc="147359589" ref="contactos"/>
+    <file name="form_throttle.php" crc="93986428" ref="contactos"/>
+    <file name="form_process.php" crc="3851993751" ref="contactos"/>
+    <file name="form-u2160.php" crc="4160406310" ref="contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="2020-06-04.jpg" crc="3908719172" seo="true" ref="index:nosotros:contactos:productos:sección-2:sección-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="sección-1" alt=""/>
+      <caption webpage="sección-1" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="sección-2" alt=""/>
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="u207-4.png" crc="1555331" ref="index"/>
+    <file name="u352-4-a.png" crc="176699528" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:contactos:productos:sección-2:sección-1"/>
+    <file name="u360.png" crc="75305256" ref="index"/>
+    <file name="u360-a.png" crc="3935896706" ref="index"/>
+    <file name="u396.png" crc="4094182214" ref="index"/>
+    <file name="u396-a.png" crc="349233637" ref="index"/>
+    <file name="u416.png" crc="92260049" ref="index"/>
+    <file name="u416-a.png" crc="180381691" ref="index"/>
+    <file name="trabajo que debia entregar el lunes bc-01.png" crc="283499730" seo="true" ref="index:nosotros:contactos:productos:sección-2:sección-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="sección-1" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="u498-4.png" crc="4142704624" ref="index"/>
+    <file name="u501-4.png" crc="238641942" ref="index"/>
+    <file name="5a4525cd546ddca7e1fcbc84.png" crc="429460454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20673.png" crc="4075414151" seo="true" ref="index:contactos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="whatsapp-logo-112413faa7-seeklogocom.png" crc="4138684067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correo gmail112x112.png" crc="4187950419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u207-42.png" crc="285744178" ref="index"/>
+    <file name="u352-4-a2.png" crc="18087434" ref="index"/>
+    <file name="u3602.png" crc="3934661042" ref="index"/>
+    <file name="u360-a2.png" crc="4013806330" ref="index"/>
+    <file name="u3962.png" crc="124997243" ref="index"/>
+    <file name="u396-a2.png" crc="360065145" ref="index"/>
+    <file name="u4162.png" crc="360635561" ref="index"/>
+    <file name="u416-a2.png" crc="3778028147" ref="index"/>
+    <file name="trabajo que debia entregar el lunes bc-01216x231.png" crc="207872780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u498-42.png" crc="4170206901" ref="index"/>
+    <file name="u501-42.png" crc="464579154" ref="index"/>
+    <file name="5a4525cd546ddca7e1fcbc8488x88.png" crc="4135404267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp-logo-112413faa7-seeklogocom78x78.png" crc="4260622307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correo gmail79x79.png" crc="4028246110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2020-06-04450x254.jpg" crc="3906791321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trabajo que debia entregar el lunes bc-01108x116.png" crc="4013647660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u207-43.png" crc="315130305" ref="index"/>
+    <file name="u498-43.png" crc="3863001897" ref="index"/>
+    <file name="u501-43.png" crc="3945559622" ref="index"/>
+    <file name="u4029-4.png" crc="75909908" ref="index"/>
+    <file name="u4035-4.png" crc="3894058367" ref="index"/>
+    <file name="u4041-4.png" crc="332163495" ref="index"/>
+    <file name="u4047-4.png" crc="82243653" ref="index"/>
+    <file name="5676327x27.png" crc="278396900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="66885.png" crc="55135528" seo="true" ref="index:nosotros:contactos:productos:sección-2:sección-1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="sección-1" alt=""/>
+      <caption webpage="sección-1" alt=""/>
+      <caption webpage="sección-1" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="sección-2" alt=""/>
+      <caption webpage="sección-2" alt=""/>
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="5a4525cd546ddca7e1fcbc8444x44.png" crc="4080767400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp-logo-112413faa7-seeklogocom39x39.png" crc="447106044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correo gmail40x40.png" crc="4269059169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u753-4.png" crc="383574782" ref="nosotros"/>
+    <file name="u965.png" crc="3869735533" ref="nosotros"/>
+    <file name="u965-a.png" crc="501347386" ref="nosotros"/>
+    <file name="u975-4-a.png" crc="240447781" ref="nosotros"/>
+    <file name="u1009.png" crc="4269244165" ref="nosotros"/>
+    <file name="u1009-a.png" crc="98035244" ref="nosotros"/>
+    <file name="u1030.png" crc="4054302795" ref="nosotros"/>
+    <file name="u1030-a.png" crc="66562582" ref="nosotros"/>
+    <file name="u937-4.png" crc="354330485" ref="nosotros"/>
+    <file name="artboard 1.png" crc="3810833795" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="bubble_speech_red_clip_art_png_image.png" crc="353939229" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u958-8.png" crc="4255880074" ref="nosotros"/>
+    <file name="u753-42.png" crc="294358382" ref="nosotros"/>
+    <file name="u9652.png" crc="4232705766" ref="nosotros"/>
+    <file name="u965-a2.png" crc="4204524658" ref="nosotros"/>
+    <file name="u975-4-a2.png" crc="4258291624" ref="nosotros"/>
+    <file name="u10092.png" crc="3834823416" ref="nosotros"/>
+    <file name="u1009-a2.png" crc="3808702283" ref="nosotros"/>
+    <file name="u10302.png" crc="3758529150" ref="nosotros"/>
+    <file name="u1030-a2.png" crc="84610615" ref="nosotros"/>
+    <file name="u937-42.png" crc="4211274187" ref="nosotros"/>
+    <file name="bubble_speech_red_clip_art_png_image222x178.png" crc="513921693" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u958-82.png" crc="404274358" ref="nosotros"/>
+    <file name="u753-43.png" crc="48645506" ref="nosotros"/>
+    <file name="u937-43.png" crc="240738080" ref="nosotros"/>
+    <file name="bubble_speech_red_clip_art_png_image210x169.png" crc="298964628" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u958-83.png" crc="4064000395" ref="nosotros"/>
+    <file name="u4403-4.png" crc="78487851" ref="nosotros"/>
+    <file name="u4408-4.png" crc="319889579" ref="nosotros"/>
+    <file name="u4413-4.png" crc="3829261762" ref="nosotros"/>
+    <file name="u4418-4.png" crc="3848738662" ref="nosotros"/>
+    <file name="u1917-4.png" crc="21779444" ref="contactos"/>
+    <file name="u1834.png" crc="3984920037" ref="contactos"/>
+    <file name="u1834-a.png" crc="121328407" ref="contactos"/>
+    <file name="u1844.png" crc="3958920492" ref="contactos"/>
+    <file name="u1844-a.png" crc="202841863" ref="contactos"/>
+    <file name="u1880.png" crc="199820874" ref="contactos"/>
+    <file name="u1880-a.png" crc="215113113" ref="contactos"/>
+    <file name="u1901-4-a.png" crc="195656421" ref="contactos"/>
+    <file name="1483285.png" crc="4064661199" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="rayita.png" crc="4245097656" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u1967-6-a.png" crc="219372288" ref="contactos"/>
+    <file name="incoming-call.png" crc="4183745172" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="whatsasjo.png" crc="4074971830" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="correo gmail.png" crc="171088944" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u1917-42.png" crc="3941069040" ref="contactos"/>
+    <file name="u18342.png" crc="29658949" ref="contactos"/>
+    <file name="u1834-a2.png" crc="4058685962" ref="contactos"/>
+    <file name="u18442.png" crc="3994548697" ref="contactos"/>
+    <file name="u1844-a2.png" crc="355237921" ref="contactos"/>
+    <file name="u18802.png" crc="4275636564" ref="contactos"/>
+    <file name="u1880-a2.png" crc="4225205892" ref="contactos"/>
+    <file name="u1901-4-a2.png" crc="4087567717" ref="contactos"/>
+    <file name="rayita352x352.png" crc="4281489090" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u1967-6-a2.png" crc="306545247" ref="contactos"/>
+    <file name="incoming-call110x110.png" crc="30196101" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="whatsasjo112x112.png" crc="3991641309" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="correo gmail121x121.png" crc="205290726" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u1917-43.png" crc="207040408" ref="contactos"/>
+    <file name="u4896-4.png" crc="4066737875" ref="contactos"/>
+    <file name="u4901-4.png" crc="297143224" ref="contactos"/>
+    <file name="u4906-4.png" crc="474913825" ref="contactos"/>
+    <file name="u4911-4.png" crc="76686625" ref="contactos"/>
+    <file name="5676323x23.png" crc="394441951" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="rayita247x247.png" crc="447500285" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u1967-6-a3.png" crc="281651692" ref="contactos"/>
+    <file name="incoming-call55x55.png" crc="126388716" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="whatsasjo56x56.png" crc="4216733229" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="correo gmail61x61.png" crc="453630948" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u5011-4.png" crc="78856285" ref="productos"/>
+    <file name="u4923.png" crc="16104298" ref="productos"/>
+    <file name="u4923-a.png" crc="4016081617" ref="productos"/>
+    <file name="u4928.png" crc="4136727139" ref="productos"/>
+    <file name="u4928-a.png" crc="275875593" ref="productos"/>
+    <file name="u4965-4-a.png" crc="4212241730" ref="productos"/>
+    <file name="u4985.png" crc="4148003632" ref="productos"/>
+    <file name="u4985-a.png" crc="6953720" ref="productos"/>
+    <file name="2.jpg" crc="3777925645" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="u5011-42.png" crc="4209153943" ref="productos"/>
+    <file name="u49232.png" crc="4265615454" ref="productos"/>
+    <file name="u4923-a2.png" crc="156906697" ref="productos"/>
+    <file name="u49282.png" crc="248745565" ref="productos"/>
+    <file name="u4928-a2.png" crc="186175110" ref="productos"/>
+    <file name="u4965-4-a2.png" crc="29396714" ref="productos"/>
+    <file name="u49852.png" crc="4097796318" ref="productos"/>
+    <file name="u4985-a2.png" crc="148027105" ref="productos"/>
+    <file name="2594x796.jpg" crc="3986768265" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="56763.png" crc="4268970540" seo="true" ref="productos:sección-1">
+      <caption webpage="sección-1" alt=""/>
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="u5011-43.png" crc="513065216" ref="productos"/>
+    <file name="2297x398.jpg" crc="4018242349" seo="true" ref="productos">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="u5333-4.png" crc="4135782811" ref="productos"/>
+    <file name="u5338-4.png" crc="3854560421" ref="productos"/>
+    <file name="u5343-4.png" crc="408384948" ref="productos"/>
+    <file name="u5348-4.png" crc="267700264" ref="productos"/>
+    <file name="u5685-4.png" crc="4038974781" ref="sección-2"/>
+    <file name="u5695.png" crc="3826614454" ref="sección-2"/>
+    <file name="u5695-a.png" crc="6350855" ref="sección-2"/>
+    <file name="u5700.png" crc="4066379480" ref="sección-2"/>
+    <file name="u5700-a.png" crc="4111980987" ref="sección-2"/>
+    <file name="u5737.png" crc="276598664" ref="sección-2"/>
+    <file name="u5737-a.png" crc="3924641640" ref="sección-2"/>
+    <file name="u5758.png" crc="4147979886" ref="sección-2"/>
+    <file name="u5758-a.png" crc="4164935843" ref="sección-2"/>
+    <file name="4.jpg" crc="534935311" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="u6030-4.png" crc="242477747" ref="sección-2"/>
+    <file name="u6035-4.png" crc="3831532080" ref="sección-2"/>
+    <file name="u6040-4.png" crc="4190107629" ref="sección-2"/>
+    <file name="u6045-4.png" crc="4051692921" ref="sección-2"/>
+    <file name="332366833_1928954730770683_7386903962389477251_n.jpg" crc="3955472231" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="283350503_5149465461797964_6463903473632316489_n.jpg" crc="3917250180" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="332492251_580745940617038_7792714111308039855_n.jpg" crc="4050228979" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="u6462-4.png" crc="4192967508" ref="sección-2"/>
+    <file name="u6468.png" crc="4079115956" ref="sección-2"/>
+    <file name="u6468-r.png" crc="39559385" ref="sección-2"/>
+    <file name="u6477-4.png" crc="447852049" ref="sección-2"/>
+    <file name="u6483.png" crc="4079115956" ref="sección-2"/>
+    <file name="u6483-r.png" crc="39559385" ref="sección-2"/>
+    <file name="u6498.png" crc="4208361747" ref="sección-2"/>
+    <file name="u6498-r.png" crc="405470635" ref="sección-2"/>
+    <file name="u5685-42.png" crc="4146225559" ref="sección-2"/>
+    <file name="u56952.png" crc="71052270" ref="sección-2"/>
+    <file name="u5695-a2.png" crc="101330589" ref="sección-2"/>
+    <file name="u57002.png" crc="3933555598" ref="sección-2"/>
+    <file name="u5700-a2.png" crc="3974642950" ref="sección-2"/>
+    <file name="u57372.png" crc="4287662753" ref="sección-2"/>
+    <file name="u5737-a2.png" crc="241006327" ref="sección-2"/>
+    <file name="u57582.png" crc="3901006285" ref="sección-2"/>
+    <file name="u5758-a2.png" crc="149709780" ref="sección-2"/>
+    <file name="u6030-42.png" crc="3882581348" ref="sección-2"/>
+    <file name="u6035-42.png" crc="4144672083" ref="sección-2"/>
+    <file name="u6040-42.png" crc="3916312897" ref="sección-2"/>
+    <file name="u6045-42.png" crc="442398795" ref="sección-2"/>
+    <file name="332366833_1928954730770683_7386903962389477251_n225x299.jpg" crc="3774859439" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="283350503_5149465461797964_6463903473632316489_n418x235.jpg" crc="92950218" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="332492251_580745940617038_7792714111308039855_n403x260.jpg" crc="4106267103" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="u6462-42.png" crc="502804505" ref="sección-2"/>
+    <file name="u64682.png" crc="404761923" ref="sección-2"/>
+    <file name="u6468-r2.png" crc="4143890003" ref="sección-2"/>
+    <file name="u6477-42.png" crc="4203800565" ref="sección-2"/>
+    <file name="u64832.png" crc="404761923" ref="sección-2"/>
+    <file name="u6483-r2.png" crc="4143890003" ref="sección-2"/>
+    <file name="u64982.png" crc="64085397" ref="sección-2"/>
+    <file name="u6498-r2.png" crc="389073773" ref="sección-2"/>
+    <file name="4443x594.jpg" crc="4275151844" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="u5685-43.png" crc="3918218418" ref="sección-2"/>
+    <file name="u6030-43.png" crc="4106523081" ref="sección-2"/>
+    <file name="u6035-43.png" crc="382296565" ref="sección-2"/>
+    <file name="u6040-43.png" crc="474913825" ref="sección-2"/>
+    <file name="u6045-43.png" crc="134248829" ref="sección-2"/>
+    <file name="56763-crop-u6019.png" crc="147606989" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="332366833_1928954730770683_7386903962389477251_n103x138.jpg" crc="4187476738" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="283350503_5149465461797964_6463903473632316489_n187x106.jpg" crc="263729620" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="332492251_580745940617038_7792714111308039855_n202x130.jpg" crc="357273578" seo="true" ref="sección-2">
+      <caption webpage="sección-2" alt=""/>
+    </file>
+    <file name="u6462-43.png" crc="3980585490" ref="sección-2"/>
+    <file name="u64683.png" crc="46241717" ref="sección-2"/>
+    <file name="u6468-r3.png" crc="3870750268" ref="sección-2"/>
+    <file name="u6477-43.png" crc="224326341" ref="sección-2"/>
+    <file name="u64833.png" crc="4065743268" ref="sección-2"/>
+    <file name="u6483-r3.png" crc="262832191" ref="sección-2"/>
+    <file name="u64983.png" crc="4027796561" ref="sección-2"/>
+    <file name="u6498-r3.png" crc="341305301" ref="sección-2"/>
+    <file name="u5363-4.png" crc="407962953" ref="sección-1"/>
+    <file name="u5412.png" crc="273467568" ref="sección-1"/>
+    <file name="u5412-a.png" crc="92650216" ref="sección-1"/>
+    <file name="u5417.png" crc="185829489" ref="sección-1"/>
+    <file name="u5417-a.png" crc="3908875328" ref="sección-1"/>
+    <file name="u5453.png" crc="405649837" ref="sección-1"/>
+    <file name="u5453-a.png" crc="4074694479" ref="sección-1"/>
+    <file name="u5475.png" crc="423401677" ref="sección-1"/>
+    <file name="u5475-a.png" crc="4003353264" ref="sección-1"/>
+    <file name="4756x1013.jpg" crc="174367507" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="334528577_1280383852575938_6621425121628878572_n.jpg" crc="466068173" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="fast-food-menu-template-design-5fe22c38724bd95ea68df82fb5483b08_screen.jpg" crc="66127968" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="u5363-42.png" crc="53601501" ref="sección-1"/>
+    <file name="u54122.png" crc="16220289" ref="sección-1"/>
+    <file name="u5412-a2.png" crc="4029936673" ref="sección-1"/>
+    <file name="u54172.png" crc="3857685260" ref="sección-1"/>
+    <file name="u5417-a2.png" crc="172045883" ref="sección-1"/>
+    <file name="u54532.png" crc="161667014" ref="sección-1"/>
+    <file name="u5453-a2.png" crc="4043812054" ref="sección-1"/>
+    <file name="u54752.png" crc="210682790" ref="sección-1"/>
+    <file name="u5475-a2.png" crc="120135708" ref="sección-1"/>
+    <file name="4532x712.jpg" crc="3859830313" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="334528577_1280383852575938_6621425121628878572_n224x298.jpg" crc="171559387" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="fast-food-menu-template-design-5fe22c38724bd95ea68df82fb5483b08_screen234x302.jpg" crc="192435728" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="4451x605.jpg" crc="311218135" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="u5363-43.png" crc="3762404853" ref="sección-1"/>
+    <file name="u5651-4.png" crc="3968739173" ref="sección-1"/>
+    <file name="u5656-4.png" crc="4184538058" ref="sección-1"/>
+    <file name="u5661-4.png" crc="252965297" ref="sección-1"/>
+    <file name="u5666-4.png" crc="536542817" ref="sección-1"/>
+    <file name="334528577_1280383852575938_6621425121628878572_n156x208.jpg" crc="291239375" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+    <file name="fast-food-menu-template-design-5fe22c38724bd95ea68df82fb5483b08_screen117x151.jpg" crc="4257366184" seo="true" ref="sección-1">
+      <caption webpage="sección-1" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="648281" seo="true" mt="1678541900962" redirect="true"/>
+  <file name="nosotros.html" crc="250758083" seo="true" mt="1678541835098" redirect="true"/>
+  <file name="contactos.html" crc="4223574041" seo="true" mt="1678541835098" redirect="true"/>
+  <file name="productos.html" crc="5581650" seo="true" mt="1678541835098" redirect="true"/>
+  <file name="sección-2.html" crc="4055802914" seo="true" mt="1678541835098" redirect="true"/>
+  <file name="sección-1.html" crc="322451611" seo="true" mt="1678541835098" redirect="true"/>
+</manifest>
